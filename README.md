@@ -6,4 +6,4 @@ Audio credit is given to:
 * "Party Pack, Balloons, Popping, 02-01.wav" by InspectorJ (www.jshaw.co.uk) of Freesound.org
 * "Piano background, piano background 2.wav" by Nick_Simon-Adams (https://freesound.org/people/Nick_Simon-Adams/) of Freesound.org
 
-Link here: https://awadasma99.github.io/Pop_Em/
+Check it out here: https://awadasma99.github.io/Pop_Em/
